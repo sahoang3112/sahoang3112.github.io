@@ -1,4 +1,4 @@
-#Last Update Nov 8 2024
+#Last Update Mar 7 2025
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 facebook.com, 911489465574629, DIRECT, c3e20eee3f780d68
@@ -814,6 +814,7 @@ google.com, pub-9659100625006129, DIRECT, f08c47fec0942fa0
 google.com, pub-4844703270859401, DIRECT, f08c47fec0942fa0
 google.com, pub-7137699734922870, DIRECT, f08c47fec0942fa0
 google.com, pub-5365378381587512, DIRECT, f08c47fec0942fa0
+google.com, pub-6272451979325739, DIRECT, f08c47fec0942fa0
 
 #Unity
 unity.com, 13003, DIRECT, 96cabb5fbdde37a7
